@@ -1,6 +1,6 @@
 # Python Projects
-These are my first uses of Python.
-I think of a new idea, and then I program it
+These are my first uses of Python, which helped me learn the language.
+
  ## gameoflife.py 
  demonstrates Conway's game of life in a very simple format
  ## hangman.py
